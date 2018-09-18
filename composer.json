@@ -1,0 +1,7 @@
+{
+    "name": "mrluisamador/docker-4wordpress-theme",
+    "description": "This theme is just a packaged version of the Automatic Underscore theme to be used with my docker environment.",
+    "type": "theme",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}
